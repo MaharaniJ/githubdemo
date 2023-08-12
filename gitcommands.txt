@@ -31,6 +31,10 @@ git push origin  master
 
 git branch
 
+if git push does not work 
+use the following command 
+git remote set-url origin https://github.com/MaharaniJ/githubdemo.git
+
 
 
 https://dev.to/mollynem/git-github--workflow-fundamentals-5496

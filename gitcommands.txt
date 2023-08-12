@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m "message"
+git log 
+git restore --staged .
+ls -a
+git branch
+git status
+
+https://dev.to/mollynem/git-github--workflow-fundamentals-5496

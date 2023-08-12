@@ -7,4 +7,16 @@ ls -a
 git branch
 git status
 
+git reset <to the version to be reset>
+
+git stash
+saved working directory and index state WIP on master 
+
+git stash pop 
+
+git stash clear 
+
+git remote add origin "github link"
+git push -u remote origin
+
 https://dev.to/mollynem/git-github--workflow-fundamentals-5496

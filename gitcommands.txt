@@ -19,4 +19,18 @@ git stash clear
 git remote add origin "github link"
 git push -u remote origin
 
+git remote -v
+
+
+git push --set-upstream origin master  
+
+git push origin --force
+
+git push <remote> <branch>
+git push origin  master
+
+git branch
+
+
+
 https://dev.to/mollynem/git-github--workflow-fundamentals-5496
